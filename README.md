@@ -12,9 +12,8 @@ Deploy - https://fulogy-sunlight-test.vercel.app/
 4) При сохранение сделать POST запрос с сервера на http://jsonplaceholder.typicode.com/posts c заголовком Content-Type: application/json и x-token-access: random, а в теле передать все данные из формы. В Network не должно быть видно запроса на конечный URL.
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
